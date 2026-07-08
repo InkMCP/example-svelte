@@ -12,7 +12,7 @@
       </svg>
     </div>
     <h1>SvelteKit</h1>
-    <p class="subtitle">Deployed with <a href="https://ml.ink" target="_blank" rel="noopener noreferrer">Ink</a></p>
+    <p class="subtitle">Deployed with <a href="https://deployink.com" target="_blank" rel="noopener noreferrer">Ink</a></p>
   </header>
 
   <main>
@@ -26,7 +26,7 @@
     <div class="links">
       <a href="https://svelte.dev" target="_blank" rel="noopener noreferrer">Svelte Docs</a>
       <a href="https://svelte.dev/docs/kit" target="_blank" rel="noopener noreferrer">SvelteKit Docs</a>
-      <a href="https://docs.ml.ink" target="_blank" rel="noopener noreferrer">Ink Docs</a>
+      <a href="https://docs.deployink.com" target="_blank" rel="noopener noreferrer">Ink Docs</a>
     </div>
   </main>
 </div>
